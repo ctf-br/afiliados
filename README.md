@@ -19,8 +19,6 @@
 
 
 <br/><br/>
-<p align="center"> 
   
-![Version 1.00](https://img.shields.io/badge/Version-1.00-green.svg)
+![Versão 1.00](https://img.shields.io/badge/Version-1.00-green.svg)
   
-</p>
