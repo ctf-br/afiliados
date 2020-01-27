@@ -1,3 +1,5 @@
+
+![GitHub Logo](https://raw.githubusercontent.com/thezakman/CTF-BR_Branding/master/Readme/colorido.png) 
 # Abaixo, os direitos e deveres dos que se afiliarem ao CTF-BR:
 
 **1** - O capitão do time participará do **Conselho do CTF-BR**, onde a ideia é fazer reuniões internas para debater assuntos do Projeto. As reuniões podem ser propostas por esses membros (que são os capitães dos times afiliados e a staff atual);
@@ -13,3 +15,8 @@
 **6** - Serão pontos de contato com a Comunidade, podendo trazer ideias, dicas e reclamações dos players para serem debatidas nas  reuniões do Conselho;
 
 **7** - A afiliação poderá ser desfeita se o item 5 não for cumprido;
+
+
+
+<br/><br/>
+![Version 0.04](https://img.shields.io/badge/Version-0.01-green.svg)
