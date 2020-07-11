@@ -14,7 +14,9 @@
 
 **6** - Serão pontos de contato com a Comunidade, podendo trazer ideias, dicas e reclamações dos players para serem debatidas nas  reuniões do Conselho;
 
-**7** - A afiliação poderá ser desfeita se o item 5 não for cumprido;
+**7** - O time poderá participar de eventos exclusivos para afiliados, como o CTF-BR Battle Royale, que sempre terá boa premiação.
+
+**8** - A afiliação poderá ser desfeita se o item 5 não for cumprido;
 
 
 
